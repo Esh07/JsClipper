@@ -3,6 +3,8 @@ JsClipper
 
 A JavaScript library to perform boolean operations (union, difference etc...) between two SVG paths.
 
+This Repo is Fork of [mathisonian/JsClipper](https://github.com/mathisonian/JsClipper)
+
 Online demo : http://delapouite.github.io/JsClipper/demo.html
 
 Original : http://sourceforge.net/projects/jsclipper
